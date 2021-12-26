@@ -1,4 +1,4 @@
-# List-of-C-Libraries
+# Curated List of C Libraries Embedded or platform independent
 
 This is List of C Libraries Independent of system, any of this could be used in embedded system.
 
