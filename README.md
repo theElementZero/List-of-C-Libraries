@@ -11,3 +11,7 @@ https://github.com/embedded-boston/awesome-embedded-systems
 This is another curated list of embedded c libraries or 
 
 https://github.com/iDoka/awesome-embedded-software
+
+Single-file public-domain/open source libraries with minimal dependencies
+
+https://github.com/nothings/single_file_libs
